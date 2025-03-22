@@ -1,5 +1,4 @@
-آخرین کانفیگ‌ها:
-ss
 vmess
 trojan
+ss
 vless

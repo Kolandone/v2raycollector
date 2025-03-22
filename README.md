@@ -11,7 +11,7 @@
 ### 1. همه کانفیگ‌ها
 - **فایل**: `config.txt`
 - **توضیح**: شامل همه کانفیگ‌های جمع‌آوری‌شده (بیش از 20,000 کانفیگ).
-- **لینک**: [دانلود config.txt](https://raw.githubusercontent.com/Kolandone/v2raycollector/main/config.txt)
+- **لینک**: [ config](https://raw.githubusercontent.com/Kolandone/v2raycollector/main/config.txt)
 
 ### 2. کانفیگ‌های جدا بر اساس پروتکل
 هر پروتکل توی یه فایل جدا ذخیره شده تا استفاده ازش راحت‌تر باشه:
@@ -31,7 +31,7 @@
 ### 3. نسخه سبک
 - **فایل**: `config_lite.txt`
 - **توضیح**: یه نسخه سبک با حداکثر 15 کانفیگ از هر پروتکل.
-- **لینک**: [دانلود config_lite.txt](https://raw.githubusercontent.com/Kolandone/v2raycollector/main/config_lite.txt)
+- **لینک**: [config_lite](https://raw.githubusercontent.com/Kolandone/v2raycollector/main/config_lite.txt)
 
 ---
 

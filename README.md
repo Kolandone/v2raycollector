@@ -18,15 +18,15 @@
 
 | پروتکل      | فایل          | لینک                                       |
 |-------------|---------------|-------------------------------------------------|
-| VMess       | `vmess.txt`   | [دانلود vmess.txt](https://raw.githubusercontent.com/Kolandone/v2raycollector/main/vmess.txt)   |
-| VLess       | `vless.txt`   | [دانلود vless.txt](https://raw.githubusercontent.com/Kolandone/v2raycollector/main/vless.txt)   |
-| Trojan      | `trojan.txt`  | [دانلود trojan.txt](https://raw.githubusercontent.com/Kolandone/v2raycollector/main/trojan.txt) |
-| Shadowsocks | `ss.txt`      | [دانلود ss.txt](https://raw.githubusercontent.com/Kolandone/v2raycollector/main/ss.txt)       |
-| SSR         | `ssr.txt`     | [دانلود ssr.txt](https://raw.githubusercontent.com/Kolandone/v2raycollector/main/ssr.txt)     |
-| HTTP        | `http.txt`    | [دانلود http.txt](https://raw.githubusercontent.com/Kolandone/v2raycollector/main/http.txt)   |
-| Socks       | `socks.txt`   | [دانلود socks.txt](https://raw.githubusercontent.com/Kolandone/v2raycollector/main/socks.txt) |
-| Juicity     | `juicity.txt` | [دانلود juicity.txt](https://raw.githubusercontent.com/Kolandone/v2raycollector/main/juicity.txt) |
-| Reality     | `reality.txt` | [دانلود reality.txt](https://raw.githubusercontent.com/Kolandone/v2raycollector/main/reality.txt) |
+| VMess       | `vmess.txt`   | [ vmess](https://raw.githubusercontent.com/Kolandone/v2raycollector/main/vmess.txt)   |
+| VLess       | `vless.txt`   | [ vless](https://raw.githubusercontent.com/Kolandone/v2raycollector/main/vless.txt)   |
+| Trojan      | `trojan.txt`  | [ trojan](https://raw.githubusercontent.com/Kolandone/v2raycollector/main/trojan.txt) |
+| Shadowsocks | `ss.txt`      | [ ss](https://raw.githubusercontent.com/Kolandone/v2raycollector/main/ss.txt)       |
+| SSR         | `ssr.txt`     | [ ssr](https://raw.githubusercontent.com/Kolandone/v2raycollector/main/ssr.txt)     |
+| HTTP        | `http.txt`    | [ http](https://raw.githubusercontent.com/Kolandone/v2raycollector/main/http.txt)   |
+| Socks       | `socks.txt`   | [ socks](https://raw.githubusercontent.com/Kolandone/v2raycollector/main/socks.txt) |
+| Juicity     | `juicity.txt` | [ juicity](https://raw.githubusercontent.com/Kolandone/v2raycollector/main/juicity.txt) |
+| Reality     | `reality.txt` | [ reality](https://raw.githubusercontent.com/Kolandone/v2raycollector/main/reality.txt) |
 
 ### 3. نسخه سبک
 - **فایل**: `config_lite.txt`

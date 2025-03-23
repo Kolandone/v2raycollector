@@ -1,3 +1,4 @@
+trojan://bpb-trojan@173.245.58.39:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#%28%40Ammar_Taraz%29
 trojan://telegram-id-directvpn@52.56.145.241:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔
 trojan://telegram-id-directvpn@15.237.90.40:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔
 trojan://cf13832b-4ca0-4fee-8e85-2b2411104e75@52.38.66.116:20230?security=tls&sni=421421.xyz#@Hope_Net-join-us-on-Telegram

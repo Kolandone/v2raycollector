@@ -27,7 +27,7 @@
 | Socks       | `socks.txt`   | [ socks](https://raw.githubusercontent.com/Kolandone/v2raycollector/main/socks.txt) |
 | Juicity     | `juicity.txt` | [ juicity](https://raw.githubusercontent.com/Kolandone/v2raycollector/main/juicity.txt) |
 | Reality     | `reality.txt` | [ reality](https://raw.githubusercontent.com/Kolandone/v2raycollector/main/reality.txt) |
-
+| hysteria    |  `hysteria.txt` | [hysteria](https://raw.githubusercontent.com/Kolandone/v2raycollector/main/hysteria.txt) |
 ### 3. نسخه سبک
 - **فایل**: `config_lite.txt`
 - **توضیح**: یه نسخه سبک با حداکثر 15 کانفیگ از هر پروتکل.

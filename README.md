@@ -23,7 +23,7 @@
 | Trojan      | `trojan.txt`  | [ trojan](https://raw.githubusercontent.com/Kolandone/v2raycollector/main/trojan.txt) |
 | Shadowsocks | `ss.txt`      | [ ss](https://raw.githubusercontent.com/Kolandone/v2raycollector/main/ss.txt)       |
 | SSR         | `ssr.txt`     | [ ssr](https://raw.githubusercontent.com/Kolandone/v2raycollector/main/ssr.txt)     |
-| HTTP        | `http.txt`    | [ http](https://raw.githubusercontent.com/Kolandone/v2raycollector/main/http.txt)   |
+| tuic        | `tuic.txt`    | [ tuic](https://raw.githubusercontent.com/Kolandone/v2raycollector/main/tuic.txt)   |
 | Socks       | `socks.txt`   | [ socks](https://raw.githubusercontent.com/Kolandone/v2raycollector/main/socks.txt) |
 | Juicity     | `juicity.txt` | [ juicity](https://raw.githubusercontent.com/Kolandone/v2raycollector/main/juicity.txt) |
 | Reality     | `reality.txt` | [ reality](https://raw.githubusercontent.com/Kolandone/v2raycollector/main/reality.txt) |

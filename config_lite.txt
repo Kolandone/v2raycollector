@@ -31,9 +31,9 @@ trojan://I46LpSIM1f@x4ger-ionos.devefun.net:1935?security=tls&sni=x4ger-ionos.de
 trojan://aTArbZ2F0E@cloudgetservice.mcloudservice.site:443?security=tls&sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=%2Flinkvkws#VL-0123-020
 trojan://I46LpSIM1f@194.164.57.9:1935?security=tls&sni=x4ger-ionos.devefun.net&alpn=h3%2Ch2%2Chttp%2F1.1&type=tcp&headerType=none#VL-0123-078
 trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@usa-sanjose-one.890614.filegear-sg.me:443/?type=ws&path=%2FT5yZBrY2Qkg2cThJQeJb&security=tls&sni=usa-sanjose-one.890614.filegear-sg.me&alpn=http%2F1.1#👉🆔
-trojan://74260698218909400@patient-crawdad.shiner427.skin:443/?type=tcp&security=tls&sni=patient-crawdad.shiner427.skin#👉🆔
-trojan://guKUnUpJam@happy.new.year.sahanwickramasinghe.shop:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=statics.teams.cdn.office.net#👉🆔
-trojan://cf49ce10-17ed-11f0-99f9-1239d0255272@51.38.65.155:443/?type=tcp&security=tls&sni=tgju.org&allowInsecure=1#👉🆔
+trojan://psycho@104.21.80.1:443?path=%2FtrrhCXjStFOnZYLzgh%3Fed%3D2560&security=tls&alpn=http/1.1&host=psycho.suex12.ir&fp=randomized&type=ws&sni=PSYchO.SueX12.Ir#👉🆔
+trojan://telegram-id-directvpn@3.9.89.14:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔
+trojan://74260698218909400@smooth-imp.shiner427.skin:443/?type=tcp&security=tls&sni=smooth-imp.shiner427.skin#👉🆔
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.177:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔
 ss://a77f4f69f0444896bacb302bbe3116d5@uaev4-vip.digitalldns.com:9314?type=tcp&headerType=http&host=varzesh3.com&path=/#👉🆔
 ss://41bd1a4c-855e-4ebc-85ce-9c927840fa82@iranserver.com:2095?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&encryption=none&security=none&type=ws&host=www.myket.ir.www.cafebazaar.ir.%E5%83%8F%E9%B8%9F%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1.online.#👉🆔

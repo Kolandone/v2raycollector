@@ -24,10 +24,10 @@ trojan://telegram-id-privatevpns@3.9.150.130:22222?security=tls&alpn=http/1.1&he
 trojan://I46LpSIM1f@x4ger-ionos.devefun.net:1935?security=tls&sni=x4ger-ionos.devefun.net&alpn=h3%2Ch2%2Chttp%2F1.1&type=tcp&headerType=none#VL-0116-016
 trojan://aTArbZ2F0E@cloudgetservice.mcloudservice.site:443?security=tls&sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=%2Flinkvkws#VL-0123-020
 trojan://I46LpSIM1f@194.164.57.9:1935?security=tls&sni=x4ger-ionos.devefun.net&alpn=h3%2Ch2%2Chttp%2F1.1&type=tcp&headerType=none#VL-0123-078
-trojan://4467ae8518abf1ef321618c0bfb5549ccc@159.54.189.24:23050/?type=tcp&security=tls&sni=www.cloudflare.com&allowInsecure=1#👉🆔@v2ray_configs_pool📡🇺🇸®️United
-trojan://telegram-id-v2rayvpnchannel@51.21.42.51:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇸🇪®️Sweden©️Stockholm🅿️ping:9.26ms`
-trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x1fr-ovh.devefun.net#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Montélimar🅿️ping:65.06ms`
-trojan://hZ7JkYVAfB@141.227.138.29:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x1ch-ovh.devefun.net#👉🆔@v2ray_configs_pool📡🇨🇭®️Switzerland©️Zurich🅿️ping:39.76ms`
+trojan://telegram-id-v2rayvpnchannel@63.177.161.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt
+trojan://aTArbZ2F0E@cloudgetservice.mcloudservice.site:443?path=%2Flinkvkws&security=tls&host=uSa-vp-27.bLAzECLOUD.SITE&type=ws&sni=uSa-vp-27.bLAzECLOUD.SITE#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:54.06ms`
+trojan://oIwjHDXpKePvYIg8@43.167.160.4:443?allowInsecure=1&sni=myvps.cfd#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya🅿️ping:250.1ms`
+trojan://1680cbc0-193c-11f0-a98e-1239d0255272@103.253.24.212:443/?type=tcp&security=tls&sni=tgju.org&allowInsecure=1#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.177:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔
 ss://a77f4f69f0444896bacb302bbe3116d5@uaev4-vip.digitalldns.com:9314?type=tcp&headerType=http&host=varzesh3.com&path=/#👉🆔
 ss://41bd1a4c-855e-4ebc-85ce-9c927840fa82@iranserver.com:2095?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&encryption=none&security=none&type=ws&host=www.myket.ir.www.cafebazaar.ir.%E5%83%8F%E9%B8%9F%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1.online.#👉🆔

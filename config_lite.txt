@@ -24,11 +24,11 @@ trojan://auto@104.21.72.108:443?security=tls&sni=esetsecuritylicense1.cxlrazo.wo
 trojan://1549e70f-dc57-45e3-ac7c-515f0161db72@172.67.155.140:443?path=%2FTomYJoQX0RSt1mktNrT&security=tls&alpn=http%2F1.1&host=6667.huangshang.dpdns.org&fp=chrome&type=ws&sni=6667.HUAnGSHanG.dpdNs.orG#@meli_proxyy
 trojan://3d4ad187-b554-4300-bf71-d26c71962504@104.21.78.243:443?allowInsecure=1&sni=FFfgtyy.7282728.XYZ&type=ws&host=FFfgtyy.7282728.XYZ&path=/WaHA3RC540rQ8PWqRcOEICAwmfH7#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:54.07ms`
 trojan://0bf83a1d-f785-487a-a479-3c3de2566ba6@104.21.75.75:443?security=tls&sni=Xs2ws.857856.xYz&alpn=http%2F1.1&fp=chrome&type=ws&host=xs2ws.857856.xyz&path=%2FxJXdWGMbbZovkcaL2SsGTGxE#[🇨🇦]t.me/ConfigsHub`
-trojan://8437d6e8-8492-4ef2-8eb3-0e9ee281882f@digitalocean.com:443?path=%2Fimages&security=tls&host=uk8i7uufxlcbr2hbym.jjjiedian6j4tblb.com&type=ws&sni=uk8i7uufxlcbr2hbym.jjjiedian6j4tblb.com#[🇨🇦]t.me/ConfigsHub`
-trojan://2734c14b-e4ce-48b3-b3de-f80788cb4c47@104.21.84.58:443?path=%2FbdtuD5eD7Q29WxRG8DqNAB&security=tls&alpn=http%2F1.1&host=xxxcddde.iran2035.dpdns.org&fp=chrome&type=ws&sni=XXXcddDe.IRaN2035.dpdNs.orG#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:14.86ms`
-trojan://telegram-id-privatevpns@13.36.160.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-directvpn@13.36.160.33:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
-trojan://telegram-id-privatevpns@13.36.160.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub`
+trojan://acbacba-acab-baac-acbd-bcbcbabacaca@127.0.0.1:1080?security=tls&type=tcp#🔄
+trojan://abaccab-caab-abca-acdb-abbacbbccaca@127.0.0.1:2080?security=tls&type=tcp#🤖
+trojan://ccabbaa-caba-aacb-abcd-cbbacccaabab@127.0.0.1:3080?security=tls&type=tcp#🛡
+trojan://Aimer@104.19.45.0:443?sni=epccf.ambercc.filegear-sg.me#🔒
+trojan://G4CjsAfHNn@45.129.36.151:443?security=tls&sni=x1.ehccn.site&type=tcp#🔒
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.57:8880?mode=gun&security=none&encryption=none&type=grpc#[🇳🇱]t.me/ConfigsHub`
 ss://15298f41-e80b-463a-b85b-0c903258a1c8@199.34.228.185:443?path=Telegram%40WedBaZ%2F%3Fed&security=tls&encryption=none&host=d5.medicaltreatment.ir&type=ws&sni=d5.medicaltreatment.ir#[🇺🇸]t.me/ConfigsHub`
 ss://495a1363-bd37-4f3a-861e-ffb1686cf4d5@194.182.79.113:26468?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#[🏁]t.me/ConfigsHub`

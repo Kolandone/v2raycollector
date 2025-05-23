@@ -17,7 +17,6 @@ hysteria://108.181.24.77:11512/?insecure=1&peer=apple.com&auth=dongtaiwang.com&u
 hysteria://195.154.200.40:15010/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&alpn=h3#🇫🇷法国2
 hysteria://195.154.200.178:46938/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#Channel
 hysteria://176.32.35.226:62003/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#Channel
-hysteria://208.87.243.187:40528/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&alpn=h3#Channel
 hysteria://5.182.86.167:43223/?insecure=1&peer=www.bing.com&auth=d6b09d56&upmbps=20&downmbps=20&alpn=h3#HysTeria
 hysteria://5.182.86.167:10144/?insecure=1&peer=www.bing.com&auth=040b64f4&upmbps=20&downmbps=20&alpn=h3#HysTeria
 hysteria://5.182.86.167:10146/?insecure=1&peer=www.bing.com&auth=024094df&upmbps=20&downmbps=100&alpn=h3#HysTeria

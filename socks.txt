@@ -1,1 +1,9 @@
-socks://cHY1NDg3N2NzcmFjOmYxMDRra3VlcHUybg==@91.148.224.10:1080#🔵⚫+MCI+@Mester_V2ray
+socks://Og==@185.93.89.191:26441#@vmessir4n
+socks://Og==@185.93.89.191:14000#@vmessir4n
+socks://Og==@185.93.89.191:6003#@vmessir4n
+socks://Og==@185.93.89.191:5946#@vmessir4n
+socks://Og==@185.93.89.191:10487#@vmessir4n
+socks://Og==@185.93.89.146:23486#@vmessir4n
+socks://Og==@185.93.89.146:6672#@vmessir4n
+socks://Og==@185.93.89.170:30465#@vmessir4n
+socks://Og==@185.93.89.171:39225#@vmessir4n

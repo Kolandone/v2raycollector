@@ -25,9 +25,9 @@ vless://d8e1cfdc-7899-4c71-8d11-058933210c55@143.110.169.61:52189?type=tcp&secur
 vless://c34a9f73-3c11-4614-90ff-196add3fa4aa@157.230.28.73:23353?type=tcp&security=reality&pbk=OItbKB3XzCXKysSNBIUZ7fDAfASACK_ucLrU6NAAFAU&fp=firefox&sni=*.sourceforge.net&sid=a98a22e2&spx=%2F#@Capital_NET
 vless://a70e4c16-319a-49e4-bbe1-aa8c34d1380b@66.235.200.51:2053?encryption=none&security=tls&sni=figr1.blackflag.blog&alpn=h2&fp=chrome&type=grpc&serviceName=jkrv2ry&mode=gun#@Capital_NET
 vless://24f6cf45-67ef-493c-8db8-5cad032bf123@159.223.4.137:38915?security=reality&encryption=none&pbk=V7PuAOITOyH7RZ-PRJndYVA5udmu-DqAp7LdjpNYwUQ&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=sourceforge.net&sid=33c38f16#@Capital_NET``
+vless://258c38df-a253-49d6-fe96-229ccae2ea2a@212.80.9.68:5468?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%94%B4%20telegram%20%E2%9E%A1%EF%B8%8F%20%40ataconnect%20%2F%20server%20%2386
 vless://75ae068c-f1b2-46d6-ab07-4a63452f5aee@forward3.maryam1700.com:2095?encryption=none&security=tls&type=ws&sni=f3.天空在燃烧.website&host=f3.天空在燃烧.website&path=%2f#%F0%9F%87%BA%F0%9F%87%B8%E2%81%9CUS%E2%81%9CLuxyNetBot%E2%81%9C1
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.168:80?encryption=none&security=tls&type=ws&sni=28.动列员球8.tech&host=28.动列员球8.tech&path=%2f#%F0%9F%87%BA%F0%9F%87%B8%E2%81%9CUS%E2%81%9CLuxyNetBot%E2%81%9C2
-vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.21.31.30:80?encryption=none&security=tls&type=ws&sni=100.球运动列运20.tech&host=100.球运动列运20.tech&path=%2f#%F0%9F%87%BA%F0%9F%87%B8%E2%81%9CUS%E2%81%9CLuxyNetBot%E2%81%9C4
 trojan://3e7ad819-03dd-46e1-8292-116fd2cea1c2@bgptru1.cnamazon.sbs:443?security=tls&sni=tlsdata.cnamazon.sbs&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA_%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9A%2B%40shendu666
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@my.mjt001.com:443?security=tls&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5_%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9A%2B%40shendu666
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@ar.mjt001.com:443?security=tls&sni=ar.mjt001.com&type=tcp&headerType=none#%E6%97%A5%E6%9C%AC_youtube_lsj%E5%BC%80%E8%BD%A6_77

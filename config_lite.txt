@@ -1,5 +1,4 @@
 vmess://c0ccdeb9-784c-4d67-b904-20dcaac9902a@panel3.ipyar.org:32017?encryption=auto&security=none&fp=&type=tcp#@NetAccount
-vmess://d7f3d25d-90e2-4e75-bcc4-794c4fc31ca3@clean.gdjkhwgedhujkgwehkudadasdasdas.ir:2095?encryption=auto&security=none&fp=&type=httpupgrade&path=/&host=de764d97defbeadf.gdjkhwgedhujkgwehkudadasdasdas.ir#@NetAccount
 vmess://d7f3d25d-90e2-4e75-bcc4-794c4fc31ca3@clean.gdjkhwgedhujkgwehkudadasdasdas.ir:2095?encryption=auto&security=none&fp=&type=httpupgrade&path=/&host=de764d97defbeadf.gdjkhwgedhujkgwehkudadasdasdas.ir#@game_file2020
 vmess://ewogICJ2IjogMiwKICAicHMiOiAiVk1FU1Mt5Yqg5ou/5aSnLU5G6Kej6ZSB5Yqg5ou/5aSn5Zyw5Yy66Z2e6Ieq5Yi25YmnLUNoYXRHUFQtVGlkVG9rLVlvdVR1YmUtNTEuNzkuMTAyLjI1Mzo4MCIsCiAgImFkZCI6ICI1MS43OS4xMDIuMjUzIiwKICAicG9ydCI6IDgwLAogICJpZCI6ICI1OGZlMTU0Mi01MjkwLTQwYWQtODE1YS03NzcwN2E4MWFmZTUiLAogICJhaWQiOiAwLAogICJzY3kiOiAiYXV0byIsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiBudWxsLAogICJob3N0IjogIjUxLjc5LjEwMi4yNTMiLAogICJwYXRoIjogIi9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwKICAidGxzIjogZmFsc2UsCiAgInNuaSI6ICIiCn0=#@Filter_breaker-UK
 vmess://ey0KICAiYWQiOiAiMTA0LjE4LjI2LjkwIiwKICAicG9ydCI6IDIwNTMsCiAgInZpZCI6ICJlYWExNDBhZi00N2RhLTQyMDEtYTFlMi0wMDQ4MzMxMDY4MzUiLAogICJzZWN1cml0eSI6ICJ0bHMiLAogICJ0eXBlIjogIndzIiwKICAicGF0aCI6ICIvP2VkJTNEMjU1MCIsCiAgImhvc3QiOiAicjIuc2FtYW4uZHBkbnMub3JnIiwKICAic25pIjogInIyLnNhbWFuLmRwZG5zLm9yZyIKfQ==#@Filter_breaker
@@ -61,5 +60,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJjQHNlcmllcy1hMi1tZWMuc2F
 http://password@124.15.12.24:251?tls=false&username=username#%F0%9F%87%A8%F0%9F%87%B3CN-124.15.12.24-1949
 hysteria://108.181.24.77:11512/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=10&downmbps=50&alpn=h3#Channel
 hysteria://185.22.155.71:10803/?insecure=1&peer=www.bing.com&auth=dongtaiwang.com&upmbps=1000&downmbps=1000&alpn=h3#Channel
+hysteria://195.154.200.178:46938?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3#🇫🇷FR
 hysteria://195.154.200.40:15010/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&alpn=h3#Channel
 hysteria://208.87.243.187:40528/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&alpn=h3#Channel

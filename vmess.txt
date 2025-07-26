@@ -1,4 +1,3 @@
-vmess://c0ccdeb9-784c-4d67-b904-20dcaac9902a@panel3.ipyar.org:32017?encryption=auto&security=none&fp=&type=tcp#MTN
 vmess://c208e0ae-6f6d-4745-99da-44a44744c530@www.meter.net:2083?encryption=auto&security=tls&fp=&type=ws&path=/linkwsrt?ed=2560&host=blaze-ger-248.blazecloudmain.site#@NetAccount
 vmess://c7f169a3-2e9a-4894-ba53-7b2fa6fd08b4@15.204.234.200:41100?encryption=auto&type=raw&security=none#🇺🇸|@V2BUX
 vmess://ewogICJ2IjogMiwKICAicHMiOiAiVk1FU1Mt5Yqg5ou/5aSnLU5G6Kej6ZSB5Yqg5ou/5aSn5Zyw5Yy66Z2e6Ieq5Yi25YmnLUNoYXRHUFQtVGlkVG9rLVlvdVR1YmUtNTEuNzkuMTAyLjI1Mzo4MCIsCiAgImFkZCI6ICI1MS43OS4xMDIuMjUzIiwKICAicG9ydCI6IDgwLAogICJpZCI6ICI1OGZlMTU0Mi01MjkwLTQwYWQtODE1YS03NzcwN2E4MWFmZTUiLAogICJhaWQiOiAwLAogICJzY3kiOiAiYXV0byIsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiBudWxsLAogICJob3N0IjogIjUxLjc5LjEwMi4yNTMiLAogICJwYXRoIjogIi9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwKICAidGxzIjogZmFsc2UsCiAgInNuaSI6ICIiCn0=#@Filter_breaker-UK

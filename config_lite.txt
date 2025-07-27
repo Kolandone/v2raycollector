@@ -73,6 +73,7 @@ http://test.+@ctukb.ssv.vc:30447?tls=true&username=test#%F0%9F%87%B0%F0%9F%87%B7
 http://test.+@ctsga.ssv.vc:30448?tls=true&username=test#%F0%9F%87%B9%F0%9F%87%BCTW-114.41.34.209-0528
 http://test.+@ctsgb.ssv.vc:30448?tls=true&username=test#%F0%9F%87%B0%F0%9F%87%B7KR-210.92.144.156-0529
 http://test.+@cuhka.ssv.vc:30443?tls=true&username=test#%F0%9F%87%B9%F0%9F%87%BCTW-114.41.34.209-0540
+socks://YXdzdGhjQHRlbGVnbWFpbC5jb206V29sbGZmMTk5OA==@de1.zgsocks.com:1080#PowerMaxAntiMeli🔥Germany🇩🇪
 hysteria://108.181.24.77:11512/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=10&downmbps=50&alpn=h3#Channel
 hysteria://176.32.35.226:62003/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#Channel
 hysteria://185.22.155.71:10803/?insecure=1&peer=www.bing.com&auth=dongtaiwang.com&upmbps=1000&downmbps=1000&alpn=h3#Channel

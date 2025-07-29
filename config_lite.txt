@@ -58,7 +58,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJjQHNlcmllcy1hMi1tZWMuc2F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRRQHNlcmllcy1hMi1tZS5zYW1hbmVoaGEuY286NDQz#%F0%9F%87%AC%F0%9F%87%A7%E2%81%9CGB%E2%81%9CLuxyNetBot%E2%81%9C68
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRRQHNlcmllcy1hMi1tZS5zYW1hbmVoaGEuY286NDQz#%F0%9F%87%AC%F0%9F%87%A7%E2%81%9CGB%E2%81%9CLuxyNetBot%E2%81%9C71
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJjQHNlcmllcy1hMi1tZWMuc2FtYW5laGhhLmNvOjQ0Mw==#%F0%9F%87%AC%F0%9F%87%A7%E2%81%9CGB%E2%81%9CLuxyNetBot%E2%81%9C74
-http://password@124.15.12.24:251?tls=false&username=username#%F0%9F%87%A8%F0%9F%87%B3CN-124.15.12.24-1951
+http://password@124.15.12.24:251?tls=false&username=username#%F0%9F%87%A8%F0%9F%87%B3CN-124.15.12.24-1935
 socks://YXdzdGhjQHRlbGVnbWFpbC5jb206V29sbGZmMTk5OA==@de1.zgsocks.com:1080#PowerMaxAntiMeli🔥Germany🇩🇪
 hysteria://108.181.24.77:11512/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=10&downmbps=50&alpn=h3#Channel
 hysteria://208.87.243.187:40528/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&alpn=h3#Channel

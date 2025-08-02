@@ -1,6 +1,7 @@
 vmess://314185f7-931d-4656-922d-0857e7afd224@45.67.230.79:11052?encryption=auto&security=none&fp=&type=tcp#@Filter_breaker
 vmess://5b32de4f-e5ec-4420-9404-12389056ccfe@england.okreza151m.ir:13311?encryption=auto&security=none&fp=&type=tcp#🇬🇧
 vmess://67e010ae-0df0-40d7-893d-32cd0f8657f4@104.21.16.1:443?encryption=auto&security=tls&sni=DDDCVf.999161.xyZ&fp=&type=ws&path=/sz6hlcaoUZUxYikAUO&host=dddcvf.999161.xyz#@Filter_breaker
+vmess://67e010ae-0df0-40d7-893d-32cd0f8657f4@104.21.48.1:443?encryption=auto&security=tls&sni=DDddDddcVffFg.999161.xyZ&fp=&type=grpc&serviceName=sz6hlcaoUZ5qxayLw#@Filter_breaker
 vmess://67e010ae-0df0-40d7-893d-32cd0f8657f4@104.21.48.1:443?encryption=auto&security=tls&sni=dDddddDCvfffg.999161.xYZ&fp=&type=httpupgrade&path=/sz6hlcaoUZd4Pbdwl&host=dddddddcvfffg.999161.xyz#@Filter_breaker
 vmess://67e010ae-0df0-40d7-893d-32cd0f8657f4@104.21.96.1:443?encryption=auto&security=tls&sni=DddcvF.999161.xyZ&fp=&type=grpc&serviceName=sz6hlcaoUZ5qxayLw#@Filter_breaker
 vmess://67e010ae-0df0-40d7-893d-32cd0f8657f4@104.21.96.1:443?encryption=auto&security=tls&sni=SSSx.999161.xYZ&fp=&type=grpc&serviceName=sz6hlcaoUZ5qxayLw#@Filter_breaker

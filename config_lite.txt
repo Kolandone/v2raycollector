@@ -13,8 +13,8 @@ vless://d8e1cfdc-7899-4c71-8d11-058933210c55@143.110.169.61:52189?type=tcp&secur
 vless://c34a9f73-3c11-4614-90ff-196add3fa4aa@157.230.28.73:23353?type=tcp&security=reality&pbk=OItbKB3XzCXKysSNBIUZ7fDAfASACK_ucLrU6NAAFAU&fp=firefox&sni=*.sourceforge.net&sid=a98a22e2&spx=%2F#@Capital_NET
 vless://a70e4c16-319a-49e4-bbe1-aa8c34d1380b@66.235.200.51:2053?encryption=none&security=tls&sni=figr1.blackflag.blog&alpn=h2&fp=chrome&type=grpc&serviceName=jkrv2ry&mode=gun#@Capital_NET
 vless://24f6cf45-67ef-493c-8db8-5cad032bf123@159.223.4.137:38915?security=reality&encryption=none&pbk=V7PuAOITOyH7RZ-PRJndYVA5udmu-DqAp7LdjpNYwUQ&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=sourceforge.net&sid=33c38f16#@Capital_NET``
-vless://e39cbc40-fba8-4a29-930f-0c17f64a31e6@46.249.101.145:8080?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#[🇩🇪]t.me/ConfigsHub`
-vless://fac5bd45-2183-40d0-981a-d22d2166fd4f@104.16.12.126:443?security=tls&sni=dalinceshi.icu&type=ws&host=dalinceshi.icu&path=%2F%3Fed%3D2560&fp=random#[🇨🇦]t.me/ConfigsHub`
+vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.233.77:443?mode=auto&path=%2Fds&security=&encryption=none&type=xhttp#[🇩🇪]t.me/ConfigsHub`
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%3DJoin---planB_proxy---BIA---planB_proxy---BIA---planB_proxy---BIA---planB_proxy&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&sni=carlotta.shoorekeeper.cloudns.org#[🇨🇦]t.me/ConfigsHub`
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id&type=ws&host=vpn.stupidworld.web.id&path=%2FStupid-World%2F103.106.228.126-2053#t.me%2Fpeterjest
 trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:443?security=tls&sni=aio.zipzap.biz.id&type=ws&host=aio.zipzap.biz.id&path=%2Faioproxybot%2F129.150.49.58-18650#t.me%2Fpeterjest
 trojan://3e7ad819-03dd-46e1-8292-116fd2cea1c2@bgptru1.cnamazon.sbs:443?security=tls&sni=tlsdata.cnamazon.sbs&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA_%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9A%2B%40shendu666

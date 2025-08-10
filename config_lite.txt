@@ -13,8 +13,9 @@ vless://d8e1cfdc-7899-4c71-8d11-058933210c55@143.110.169.61:52189?type=tcp&secur
 vless://c34a9f73-3c11-4614-90ff-196add3fa4aa@157.230.28.73:23353?type=tcp&security=reality&pbk=OItbKB3XzCXKysSNBIUZ7fDAfASACK_ucLrU6NAAFAU&fp=firefox&sni=*.sourceforge.net&sid=a98a22e2&spx=%2F#@Capital_NET
 vless://a70e4c16-319a-49e4-bbe1-aa8c34d1380b@66.235.200.51:2053?encryption=none&security=tls&sni=figr1.blackflag.blog&alpn=h2&fp=chrome&type=grpc&serviceName=jkrv2ry&mode=gun#@Capital_NET
 vless://24f6cf45-67ef-493c-8db8-5cad032bf123@159.223.4.137:38915?security=reality&encryption=none&pbk=V7PuAOITOyH7RZ-PRJndYVA5udmu-DqAp7LdjpNYwUQ&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=sourceforge.net&sid=33c38f16#@Capital_NET``
-vless://9570a079-f83f-4454-88d0-884057c57a35@fruitful-exchange.seotoolsforyou.co.uk:80?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN&encryption=none&security=none&type=ws&path=%2F#[🇨🇦]t.me/ConfigsHub`
-vless://9d847ad3-1896-48f9-b89c-13fe345e2b29@zula.ir:443?mode=packet-up&path=%2Fgdsthjjjvfxsstyy%D8%9Fed%3D443&security=tls&alpn=h3&encryption=none&host=cho.chonon.sbs&fp=chrome&type=xhttp&sni=cho.chonon.sbs#[🇨🇦]t.me/ConfigsHub`
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=balancer-1.access.name.ng&fp=chrome&type=ws&sni=balancer-1.access.name.ng#[🇨🇦]t.me/ConfigsHub`
+vless://170ba974-6ae5-44ae-dfdc-4675b5643f34@79.137.33.139:16390?security=none&encryption=none&type=tcp&headerType=none#[🇫🇷]t.me/ConfigsHub`
+trojan://:bC5^lakx>$d@172.66.45.9:443?security=tls&sni=fk31LnDm4W8uj0yP1dRwLTDTdKo6Y-cu.pAGES.dEv&alpn=http%2F1.1&fp=randomized&type=ws&host=fk31lndm4w8uj0yp1drwltdtdko6y-cu.pages.dev&path=%2FtrNs9G5VJ2vI0PxgP2#[🇨🇦]t.me/ConfigsHub`
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id&type=ws&host=vpn.stupidworld.web.id&path=%2FStupid-World%2F103.106.228.126-2053#t.me%2Fpeterjest
 trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:443?security=tls&sni=aio.zipzap.biz.id&type=ws&host=aio.zipzap.biz.id&path=%2Faioproxybot%2F129.150.49.58-18650#t.me%2Fpeterjest
 trojan://3e7ad819-03dd-46e1-8292-116fd2cea1c2@bgptru1.cnamazon.sbs:443?security=tls&sni=tlsdata.cnamazon.sbs&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA_%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9A%2B%40shendu666
@@ -29,7 +30,6 @@ trojan://af4dc66a-ec88-4057-9e46-777b584577f7@sa.mjt001.com:443?security=tls&sni
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@sg.mjt001.com:443?security=tls&sni=sg.mjt001.com&type=tcp&headerType=none#_HK_%E9%A6%99%E6%B8%AF-%3E%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@tr.mjt001.com:443?security=tls&sni=tr.mjt001.com&type=tcp&headerType=none#%E6%96%B0%E5%8A%A0%E5%9D%A1_youtube_lsj%E5%BC%80%E8%BD%A6_11
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@lux.mjt001.com:443?security=tls&sni=lux.mjt001.com&type=tcp&headerType=none#%E9%9F%A9%E5%9B%BD_youtube_lsj%E5%BC%80%E8%BD%A6_8
-trojan://af4dc66a-ec88-4057-9e46-777b584577f7@tr.mjt001.com:443?security=tls&sni=tr.mjt001.com&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5_%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9A%2B%40shendu666
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.6:443#Begzar`
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRRQHNlcmllcy1hMi1tZS5zYW1hbmVoaGEuY286NDQz#%F0%9F%87%AC%F0%9F%87%A7%E2%81%9CGB%E2%81%9CLuxyNetBot%E2%81%9C12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRRQHNlcmllcy1hMi1tZS5zYW1hbmVoaGEuY286NDQz#%F0%9F%87%AC%F0%9F%87%A7%E2%81%9CGB%E2%81%9CLuxyNetBot%E2%81%9C24

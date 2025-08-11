@@ -13,8 +13,8 @@ vless://d8e1cfdc-7899-4c71-8d11-058933210c55@143.110.169.61:52189?type=tcp&secur
 vless://c34a9f73-3c11-4614-90ff-196add3fa4aa@157.230.28.73:23353?type=tcp&security=reality&pbk=OItbKB3XzCXKysSNBIUZ7fDAfASACK_ucLrU6NAAFAU&fp=firefox&sni=*.sourceforge.net&sid=a98a22e2&spx=%2F#@Capital_NET
 vless://a70e4c16-319a-49e4-bbe1-aa8c34d1380b@66.235.200.51:2053?encryption=none&security=tls&sni=figr1.blackflag.blog&alpn=h2&fp=chrome&type=grpc&serviceName=jkrv2ry&mode=gun#@Capital_NET
 vless://24f6cf45-67ef-493c-8db8-5cad032bf123@159.223.4.137:38915?security=reality&encryption=none&pbk=V7PuAOITOyH7RZ-PRJndYVA5udmu-DqAp7LdjpNYwUQ&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=sourceforge.net&sid=33c38f16#@Capital_NET``
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?security=&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub`
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#[🇨🇦]t.me/ConfigsHub`
+vless://9f69c514-7aba-4cb2-88d2-1be504c97061@89.58.1.98:44807?type=tcp&headerType=none&host=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=yahoo.com&pbk=CKRx3TijRUQqqRcEOVF07CfvekiUlPbr0twB3wrpfiQ&sid=6d78523a82d71956#[🇩🇪]t.me/ConfigsHub`
+vless://debf2a42-1ff4-4ea6-92a4-f6ac49595cc7@abzartun2.divartehran.online:23737?type=grpc&mode=gun&authority=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=varzesh3.com&pbk=i5nssGunCVG0W2CI3OM-wGXJwCn9W5Xvm0-tQw_SgEQ&sid=7c0b6c88fe5c&spx=/#[🇫🇮]t.me/ConfigsHub`
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id&type=ws&host=vpn.stupidworld.web.id&path=%2FStupid-World%2F103.106.228.126-2053#t.me%2Fpeterjest
 trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:443?security=tls&sni=aio.zipzap.biz.id&type=ws&host=aio.zipzap.biz.id&path=%2Faioproxybot%2F129.150.49.58-18650#t.me%2Fpeterjest
 trojan://3e7ad819-03dd-46e1-8292-116fd2cea1c2@bgptru1.cnamazon.sbs:443?security=tls&sni=tlsdata.cnamazon.sbs&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA_%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9A%2B%40shendu666
@@ -31,7 +31,6 @@ trojan://af4dc66a-ec88-4057-9e46-777b584577f7@tr.mjt001.com:443?security=tls&sni
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@lux.mjt001.com:443?security=tls&sni=lux.mjt001.com&type=tcp&headerType=none#%E9%9F%A9%E5%9B%BD_youtube_lsj%E5%BC%80%E8%BD%A6_8
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@tr.mjt001.com:443?security=tls&sni=tr.mjt001.com&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5_%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9A%2B%40shendu666
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.6:443#Begzar`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.23.226:990#[🏁]t.me/ConfigsHub`
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRRQHNlcmllcy1hMi1tZS5zYW1hbmVoaGEuY286NDQz#%F0%9F%87%AC%F0%9F%87%A7%E2%81%9CGB%E2%81%9CLuxyNetBot%E2%81%9C12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRRQHNlcmllcy1hMi1tZS5zYW1hbmVoaGEuY286NDQz#%F0%9F%87%AC%F0%9F%87%A7%E2%81%9CGB%E2%81%9CLuxyNetBot%E2%81%9C24
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRRQHNlcmllcy1hMi1tZS5zYW1hbmVoaGEuY286NDQz#%F0%9F%87%AC%F0%9F%87%A7%E2%81%9CGB%E2%81%9CLuxyNetBot%E2%81%9C31
@@ -45,5 +44,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1ZnQHNlcmllcy1hMi5zYW1hbmV
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJjQHNlcmllcy1hMi1tZWMuc2FtYW5laGhhLmNvOjQ0Mw==#%F0%9F%87%AC%F0%9F%87%A7%E2%81%9CGB%E2%81%9CLuxyNetBot%E2%81%9C59
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRRQHNlcmllcy1hMi1tZS5zYW1hbmVoaGEuY286NDQz#%F0%9F%87%AC%F0%9F%87%A7%E2%81%9CGB%E2%81%9CLuxyNetBot%E2%81%9C68
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRRQHNlcmllcy1hMi1tZS5zYW1hbmVoaGEuY286NDQz#%F0%9F%87%AC%F0%9F%87%A7%E2%81%9CGB%E2%81%9CLuxyNetBot%E2%81%9C71
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJjQHNlcmllcy1hMi1tZWMuc2FtYW5laGhhLmNvOjQ0Mw==#%F0%9F%87%AC%F0%9F%87%A7%E2%81%9CGB%E2%81%9CLuxyNetBot%E2%81%9C74
 http://password@124.15.12.24:251?tls=false&username=username#%F0%9F%87%A8%F0%9F%87%B3CN-124.15.12.24-1901
 hysteria://208.87.243.187:15823/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&alpn=h3#Channel

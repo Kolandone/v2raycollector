@@ -13,8 +13,8 @@ vless://d8e1cfdc-7899-4c71-8d11-058933210c55@143.110.169.61:52189?type=tcp&secur
 vless://c34a9f73-3c11-4614-90ff-196add3fa4aa@157.230.28.73:23353?type=tcp&security=reality&pbk=OItbKB3XzCXKysSNBIUZ7fDAfASACK_ucLrU6NAAFAU&fp=firefox&sni=*.sourceforge.net&sid=a98a22e2&spx=%2F#@Capital_NET
 vless://a70e4c16-319a-49e4-bbe1-aa8c34d1380b@66.235.200.51:2053?encryption=none&security=tls&sni=figr1.blackflag.blog&alpn=h2&fp=chrome&type=grpc&serviceName=jkrv2ry&mode=gun#@Capital_NET
 vless://24f6cf45-67ef-493c-8db8-5cad032bf123@159.223.4.137:38915?security=reality&encryption=none&pbk=V7PuAOITOyH7RZ-PRJndYVA5udmu-DqAp7LdjpNYwUQ&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=sourceforge.net&sid=33c38f16#@Capital_NET``
-vless://683eb1fd-5575-4da5-b5f0-953507b11b86@5.75.197.56:2095?security=&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub`
-vless://f32b681e-1917-4bee-b1bc-856e11116a2e@172.66.40.99:8080?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=t.lightningg.ip-ddns.com&type=ws#[🇨🇦]t.me/ConfigsHub`
+vless://8dbb26f8-8832-46bc-bc0c-a2f17d8d200f@15.204.236.64:24820?security=&encryption=none&headerType=none&type=tcp#[🇺🇸]t.me/ConfigsHub`
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.181.47:8443?security=none&encryption=none&type=xhttp&path=/xhttp&mode=stream-one#[🇩🇪]t.me/ConfigsHub`
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id&type=ws&host=vpn.stupidworld.web.id&path=%2FStupid-World%2F103.106.228.126-2053#t.me%2Fpeterjest
 trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:443?security=tls&sni=aio.zipzap.biz.id&type=ws&host=aio.zipzap.biz.id&path=%2Faioproxybot%2F129.150.49.58-18650#t.me%2Fpeterjest
 trojan://3e7ad819-03dd-46e1-8292-116fd2cea1c2@bgptru1.cnamazon.sbs:443?security=tls&sni=tlsdata.cnamazon.sbs&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA_%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9A%2B%40shendu666
@@ -31,7 +31,6 @@ trojan://af4dc66a-ec88-4057-9e46-777b584577f7@tr.mjt001.com:443?security=tls&sni
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@lux.mjt001.com:443?security=tls&sni=lux.mjt001.com&type=tcp&headerType=none#%E9%9F%A9%E5%9B%BD_youtube_lsj%E5%BC%80%E8%BD%A6_8
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@tr.mjt001.com:443?security=tls&sni=tr.mjt001.com&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5_%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9A%2B%40shendu666
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.6:443#Begzar`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpES2U5QVhlRm5Od0JTdnpkTUY2TGhxd2Y4QWVqOXExYVQ1cW52VExQb1VFVTVOUGdlSHdrRGVhRmNjVW84TmU3VXRwekt3cTlLRVpmcU14WFMxS1J4cEh4bk1mWGZkUnE%3D@94.131.22.134:40565#[🏁]t.me/ConfigsHub`
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRRQHNlcmllcy1hMi1tZS5zYW1hbmVoaGEuY286NDQz#%F0%9F%87%AC%F0%9F%87%A7%E2%81%9CGB%E2%81%9CLuxyNetBot%E2%81%9C12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRRQHNlcmllcy1hMi1tZS5zYW1hbmVoaGEuY286NDQz#%F0%9F%87%AC%F0%9F%87%A7%E2%81%9CGB%E2%81%9CLuxyNetBot%E2%81%9C24
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRRQHNlcmllcy1hMi1tZS5zYW1hbmVoaGEuY286NDQz#%F0%9F%87%AC%F0%9F%87%A7%E2%81%9CGB%E2%81%9CLuxyNetBot%E2%81%9C31
@@ -45,5 +44,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1ZnQHNlcmllcy1hMi5zYW1hbmV
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJjQHNlcmllcy1hMi1tZWMuc2FtYW5laGhhLmNvOjQ0Mw==#%F0%9F%87%AC%F0%9F%87%A7%E2%81%9CGB%E2%81%9CLuxyNetBot%E2%81%9C59
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRRQHNlcmllcy1hMi1tZS5zYW1hbmVoaGEuY286NDQz#%F0%9F%87%AC%F0%9F%87%A7%E2%81%9CGB%E2%81%9CLuxyNetBot%E2%81%9C68
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRRQHNlcmllcy1hMi1tZS5zYW1hbmVoaGEuY286NDQz#%F0%9F%87%AC%F0%9F%87%A7%E2%81%9CGB%E2%81%9CLuxyNetBot%E2%81%9C71
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJjQHNlcmllcy1hMi1tZWMuc2FtYW5laGhhLmNvOjQ0Mw==#%F0%9F%87%AC%F0%9F%87%A7%E2%81%9CGB%E2%81%9CLuxyNetBot%E2%81%9C74
 http://password@124.15.12.24:251?tls=false&username=username#%F0%9F%87%A8%F0%9F%87%B3CN-124.15.12.24-1974
 hysteria://208.87.243.187:15823/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&alpn=h3#Channel

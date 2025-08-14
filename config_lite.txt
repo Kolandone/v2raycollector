@@ -13,8 +13,8 @@ vless://d8e1cfdc-7899-4c71-8d11-058933210c55@143.110.169.61:52189?type=tcp&secur
 vless://c34a9f73-3c11-4614-90ff-196add3fa4aa@157.230.28.73:23353?type=tcp&security=reality&pbk=OItbKB3XzCXKysSNBIUZ7fDAfASACK_ucLrU6NAAFAU&fp=firefox&sni=*.sourceforge.net&sid=a98a22e2&spx=%2F#@Capital_NET
 vless://a70e4c16-319a-49e4-bbe1-aa8c34d1380b@66.235.200.51:2053?encryption=none&security=tls&sni=figr1.blackflag.blog&alpn=h2&fp=chrome&type=grpc&serviceName=jkrv2ry&mode=gun#@Capital_NET
 vless://24f6cf45-67ef-493c-8db8-5cad032bf123@159.223.4.137:38915?security=reality&encryption=none&pbk=V7PuAOITOyH7RZ-PRJndYVA5udmu-DqAp7LdjpNYwUQ&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=sourceforge.net&sid=33c38f16#@Capital_NET``
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.99.52.237:59483?encryption=none&security=none&type=grpc#[🇺🇸]t.me/ConfigsHub`
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:8443?path=%2F%3FJoin---v2ray_configs_pools%3Fed&security=tls&encryption=none&host=PmQ1cCsP9x.GhEiChI.oRg&type=ws&sni=PmQ1cCsP9x.GhEiChI.oRg#[🇨🇦]t.me/ConfigsHub`
+vless://dbcf007d-f950-4d98-9397-8da2b27c2931@85.133.236.19:63986?security=none&alpn=http%2F1.1&encryption=none&host=skyroom.online%2Cigap.net%2Cgharar.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub`
+vless://baf17ad6-11b4-4a75-aeed-6e0ae27c1a11@s1.toorangmarket.top:6010?security=reality&encryption=none&pbk=O8MrO2EeVldP7wGopUMhTAQ1kndecNVRRcIh_RQOQXI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=google.com&sid=7a#[🇩🇪]t.me/ConfigsHub`
 trojan://3e7ad819-03dd-46e1-8292-116fd2cea1c2@bgptru1.cnamazon.sbs:443?security=tls&sni=tlsdata.cnamazon.sbs&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA_%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9A%2B%40shendu666
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@my.mjt001.com:443?security=tls&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5_%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9A%2B%40shendu666
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@ar.mjt001.com:443?security=tls&sni=ar.mjt001.com&type=tcp&headerType=none#%E6%97%A5%E6%9C%AC_youtube_lsj%E5%BC%80%E8%BD%A6_77

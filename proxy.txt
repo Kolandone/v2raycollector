@@ -1,2 +1,2 @@
-https://t.me/proxy?server=195.254.165.184&port=21&secret=79e462821249bd7ac519130220c25d09
 https://t.me/proxy?server=195.254.165.151&port=9443&secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=195.254.165.184&port=21&secret=79e462821249bd7ac519130220c25d09

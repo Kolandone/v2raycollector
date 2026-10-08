@@ -1,5 +1,0 @@
-vmess://1933a425-2842-4d2b-8589-9ca2242d7415@94.177.9.66:29825?encryption=auto&headerType=http&host=tms.dingtalk.com&path=%2F&security=none&type=tcp#%F0%9F%98%8A9@oneclickvpnkeys
-vmess://1933a425-2842-4d2b-8589-9ca2242d7415@94.177.9.66:29825?encryption=auto&headerType=http&host=tms.dingtalk.com&security=none&type=tcp#%F0%9F%98%8A6@oneclickvpnkeys
-vmess://aeb3c019-ae83-4677-af97-846baa787ad5@185.212.149.7:2053?encryption=auto&headerType=http&host=down-cdn.dingtalk.com&path=%2F3x&security=none&type=tcp#%F0%9F%98%8A35@oneclickvpnkeys
-vmess://f836c736-87fc-4fde-aabc-00857ecdff3e@129.146.77.248:39495?encryption=auto&path=%2Fcctv13.m3u8&security=none&type=ws#%F0%9F%98%8A95@oneclickvpnkeys
-vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@ww11.levikogjgfdd.ir:18000?encryption=auto&security=none&type=tcp#%F0%9F%98%8A96@oneclickvpnkeys

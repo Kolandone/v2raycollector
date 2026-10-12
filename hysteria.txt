@@ -1,1 +1,1 @@
-hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?security=tls&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&insecure=0&sni=nas.aizhzo.com#%F0%9F%87%AD%F0%9F%87%B0%40FreakConfig
+hysteria2://77f73bd5-51bf-4143-8ebd-02f56ba376f4@79.137.206.157:21000?security=tls&obfs=salamander&obfs-password=9VK3Nqd0bcXGPxcay9hRLY28HBtKo5&insecure=0&mport=21000-21999&sni=hy.kirian.su#Telegram%20%40mtmvpn%20

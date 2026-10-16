@@ -1,2 +1,0 @@
-vmess://067fcd63-b215-4abd-8529-ae929a9971a9@145.239.55.210:80?encryption=auto&host=google.whatsapp.snapp.torob.basalam.fortresshost.ir.&path=%2F&security=none&type=ws#%F0%9F%8D%8291@oneclickvpnkeys
-vmess://eyJ0eXBlIjoibm9uZSIsInBvcnQiOiI0MTUwMSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJhZGQiOiJkYXNoYm9hcmQubHVuYXJhbWFya2V0LnRvcCIsInBzIjoiJTQwZnIzM2MwbmZpZyIsImlkIjoiMWFmMWI3ZjUtZWIxZS00MTc2LWFiNjAtYzEzNGZkMjgzYjZjIn0=

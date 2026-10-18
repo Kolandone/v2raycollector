@@ -1,2 +1,5 @@
-hysteria2://56ff50da-a238-4646-95ab-dd159634bd87@37.9.4.112:17701?security=tls&obfs=salamander&obfs-password=588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce&insecure=0&sni=ru03.arpanet-cdn.com#%40V2ray_Alpha%F0%9F%8C%A1%EF%B8%8F%209
-hysteria2://ca78f919e6@155.94.134.183:11592?security=tls&obfs=salamander&obfs-password=ec66908dbc46e6920143d9b684adf277&insecure=0&sni=srv-3fc7c9.21freedom.net#
+hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@189.74.114.2:54183/?sni=outh.yandex-cloud.org#%F0%9F%9B%A9%EF%B8%8F15@oneclickvpnkeys
+hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443/?sni=tcp-reset-club.net#%F0%9F%8D%8E40@oneclickvpnkeys
+hysteria2://capadmbd5f18bd%3AjX4BuciLLIqLvzJZsHpoXtc2@51.77.217.70:21000-21199,33000-33199/?insecure=1&obfs=salamander&obfs-password=ChY5QQQT3ZtUdNT8&sni=vpn.local#%F0%9F%9B%A9%EF%B8%8F64@oneclickvpnkeys
+hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443/?insecure=1&sni=www.docker.com#%F0%9F%9B%A9%EF%B8%8F39@oneclickvpnkeys
+hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111/?insecure=1&sni=bing.com#%F0%9F%9B%A9%EF%B8%8F66@oneclickvpnkeys

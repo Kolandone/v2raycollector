@@ -1,0 +1,2 @@
+hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&obfs=salamander&obfs-password=Telegram%40vpnjey&insecure=0&sni=de2.jey.cc.cd#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20MTMVPN
+hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&obfs=salamander&obfs-password=Telegram%40vpnjey&insecure=0&sni=de2.jey.cc.cd#telegram%20%40mtmvpn

@@ -1,0 +1,2 @@
+trojan://%6D%69%74%69%76%70%6E@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3F&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#telegram%20%40mtmvpn
+trojan://%6D%69%74%69%76%70%6E@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3F&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#telegram%20%40mtmvpn

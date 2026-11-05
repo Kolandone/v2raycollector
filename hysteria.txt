@@ -1,9 +1,0 @@
-hysteria2://69e41e64-a832-471a-b740-94577ca85520@forshynewh.duckdns.org:443/?sni=forshynewh.duckdns.org#%E2%8F%B394@oneclickvpnkeys
-hysteria2://70043bfa-d6fb-4980-b27e-773e9e8b2004@141.0.187.15:443/?sni=crt.onecloudstream.com#%E2%8F%B31@oneclickvpnkeys
-hysteria2://VPNJEY@179.61.138.145:36264/?insecure=1&obfs=salamander&obfs-password=Telegram%40vpnjey&sni=de2.jey.cc.cd#%F0%9F%8D%AA7@oneclickvpnkeys
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.188.143:4444/?insecure=1&sni=bl1.nexfile.net#%F0%9F%8D%AA66@oneclickvpnkeys
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.143:4444/?sni=pl3.nexfile.net#%F0%9F%8D%AA61@oneclickvpnkeys
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.147:4444/?sni=pl2.nexfile.net#%F0%9F%8D%AA65@oneclickvpnkeys
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@pl3.nexfile.net:4444/?sni=pl3.nexfile.net#%F0%9F%8D%AA73@oneclickvpnkeys
-hysteria2://f4b80b26-b6d4-49a6-a460-f50efb7a457c@45.91.237.78:443/?sni=node.aweom.su#%F0%9F%8D%AA13@oneclickvpnkeys
-hysteria2://ripa841juk7gwn4t@31.76.241.169:10005/?obfs=salamander&obfs-password=7kydvvvn3bwt66ff&sni=de.c0d1xdev.xyz#%F0%9F%8D%AA42@oneclickvpnkeys

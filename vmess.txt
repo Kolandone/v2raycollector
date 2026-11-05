@@ -1,1 +1,11 @@
-vmess://eyJhZGQiOiIxNTguMTYwLjE4MC4xNjUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYzU4YzEyMDUtYjMwOC00MTZmLTg1MDMtYzA0NTU3YWJmOTNkIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyNDIxMiIsInBzIjoiQFYycmF5X0FscGhh8J+YteKAjfCfkqsgNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vmess://059fda3e-5ca9-4fbd-dd89-01cc6d4bb5dd@54.37.131.126:80?encryption=auto&host=google.whatsapp.snapp.torob.basalam.hesanid8.ir.&path=%2F&security=none&type=ws#%F0%9F%8D%AA62@oneclickvpnkeys
+vmess://1aba92cc-d94c-4536-a0a3-1540cb82f38c@91.107.147.12:36594?encryption=auto&security=none&type=tcp#%F0%9F%8D%AA3@oneclickvpnkeys
+vmess://5c040f1d-45db-43bd-8d46-e4950e433735@138.199.55.230:1270?encryption=auto&security=tls&sni=xmfhlpy.com&type=tcp#%F0%9F%8D%AA71@oneclickvpnkeys
+vmess://5c040f1d-45db-43bd-8d46-e4950e433735@149.7.16.228:1270?encryption=auto&security=tls&sni=xmfhlpy.com&type=tcp#%F0%9F%8D%AA41@oneclickvpnkeys
+vmess://5c040f1d-45db-43bd-8d46-e4950e433735@172.111.38.246:1270?encryption=auto&security=tls&sni=xmfhlpy.com&type=tcp#%F0%9F%8D%AA98@oneclickvpnkeys
+vmess://5e2c7665-3c4c-4591-b77c-c3c90981c10f@195.26.26.162:37044?encryption=auto&security=none&type=tcp#%F0%9F%8D%AA1@oneclickvpnkeys
+vmess://83b09a64-1eaf-4c4d-89ed-866d4b6b8115@www.speedtest.net:443?encryption=auto&host=www.ubuntuupdates.com&path=%2Ftruth&security=tls&sni=www.ubuntuupdates.com&type=ws#%E2%8F%B315@oneclickvpnkeys
+vmess://9bcfd3b5-5f71-4938-b1d2-f8fdd895095d@172.86.108.79:42906?encryption=auto&host=www.bing.com&path=%2F9bcfd3b5-5f71-4938-b1d2-f8fdd895095d-vm&security=none&type=ws#%F0%9F%8D%AA97@oneclickvpnkeys
+vmess://b831381d-6324-4d53-ad4f-8cda48b30811@d2.anonix.cloud:8018?encryption=auto&host=shit.67133767.xyz&path=%2Fwebsocket%2Ftransfer%2Fgayporn&security=none&type=ws#%F0%9F%8D%AA45@oneclickvpnkeys
+vmess://eyJ0eXBlIjoibm9uZSIsInBvcnQiOiI0MTUwMSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJhZGQiOiJkYXNoYm9hcmQubHVuYXJhbWFya2V0LnRvcCIsInBzIjoiJTQwZnIzM2MwbmZpZyIsImlkIjoiMWFmMWI3ZjUtZWIxZS00MTc2LWFiNjAtYzEzNGZkMjgzYjZjIn0=
+vmess://eyJhZGQiOiI2Ny4yMjAuODUuNDYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoiQEhkZGlmeSAtIOKcs++4jyAtIDMwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==

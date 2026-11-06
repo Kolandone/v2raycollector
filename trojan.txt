@@ -1,0 +1,3 @@
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.171:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.discoverfreshgraduatejobsstartyourprofessionaljourney.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.215:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.indyourperfectremotetechjobfromthecomfortofhome.com#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+trojan://gHQP0D7D15@104.25.239.113:2053?path=%2F&security=tls&insecure=0&type=ws&allowInsecure=0&sni=marvdasht.phonecomparisonblog.org#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig

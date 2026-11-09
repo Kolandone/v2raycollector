@@ -1,0 +1,1 @@
+hysteria2://5ictxgawam84vgrp@109.70.74.213:2098?security=tls&obfs=salamander&obfs-password=7922smqtd5qm70fu&insecure=0&sni=109.70.74.213#Telegram%20%40mtmvpn%20

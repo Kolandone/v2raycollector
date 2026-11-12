@@ -1,8 +1,0 @@
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.134:443?fp=chrome&sni=api.iloverussia2026.com#%F0%9F%8E%8D2@oneclickvpnkeys
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.154:443?fp=chrome&sni=www.indyourperfectremotetechjobfromthecomfortofhome.com#%F0%9F%97%BC61@oneclickvpnkeys
-trojan://5t6i121em5lkmsmk@130.94.19.95:57277?fp=firefox&sni=us001.zestapp778.com#%F0%9F%97%BC75@oneclickvpnkeys
-trojan://5t6i121em5lkmsmk@45.77.54.204:51520?fp=chrome&sni=de001.zestapp778.com#%F0%9F%8E%8D1@oneclickvpnkeys
-trojan://mitivpn@167.82.64.46:443?allowInsecure=0&alpn=http%2F1.1&fp=firefox&security=tls&insecure=0&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&type=ws&host=mitivpn-mitivpn.ac.ir&sni=firefox.com#%40nofiltering2
-trojan://mitivpn@167.82.64.46:443?insecure=0&type=ws&host=mitivpn-mitivpn.ac.ir&path=%2F%3FDailyConfigs--DailyConfigs--DailyConfigs%3Fed%3D2048&security=tls&sni=firefox.com&fp=chrome&allowInsecure=0&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=http%2F1.1#%40nofiltering2
-trojan://mitivpn@199.232.78.160:443?path=%2F%3FDailyConfigs--DailyConfigs--DailyConfigs%3Fed%3D2048&fp=chrome&type=ws&allowInsecure=0&sni=community.fastly.steamstatic.com&insecure=0&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&host=mitivpn-mitivpn.ac.ir&alpn=http%2F1.1#%40nofiltering2
-trojan://mitivpn@199.232.78.160:443?security=tls&sni=community.fastly.steamstatic.com&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&fp=chrome&type=ws&alpn=http%2F1.1&insecure=0&allowInsecure=0&host=mitivpn-mitivpn.ac.ir#%40nofiltering2

@@ -1,3 +1,0 @@
-hysteria2://VPNJey@179.61.138.145:36264/?insecure=1&obfs=salamander&obfs-password=Telegram%40vpnjey&sni=de2.jey.cc.cd#%F0%9F%97%BC62@oneclickvpnkeys
-hysteria2://VPNJey@[2a0f:5707:aaf1:11a6::1]:36264/?insecure=1&obfs=salamander&obfs-password=Telegram%40vpnjey&sni=de2.jey.cc.cd#%F0%9F%8E%8D9@oneclickvpnkeys
-hysteria2://a2c74ce7-5daa-4bee-a1eb-52863873b3c3@194.48.250.233:443/?insecure=1&sni=mol.ultimagamest.com#%F0%9F%97%BC31@oneclickvpnkeys

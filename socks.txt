@@ -1,4 +1,2 @@
-socks://Og@37.32.26.209:10808#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
-socks://Og@95.38.170.222:1082#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A7%F0%9F%87%AA
-socks://Og@95.38.170.222:1085#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
-socks://Og@95.38.170.222:1087#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
+socks://Og@185.63.113.164:1085#%40Shh_Proxy-New%E2%81%B5
+socks://Og@5.160.103.162:1080#%40Shh_Proxy-New%E2%81%B4

@@ -1,1 +1,6 @@
-hysteria2://d1gkicdgem3bsoaa@panel.autonetshop.ir:43345?security=tls&obfs=salamander&obfs-password=km9oqmefh2km1i5n&insecure=0&sni=panel.autonetshop.ir#@ICV2RAY
+hysteria2://2d399e38-245c-4f07-abf2-cfce7397ba9c@31.76.106.92:8443/?sni=va.stream-room.com#%F0%9F%94%B99@oneclickvpnkeys
+hysteria2://3a17ce52-4547-45aa-9820-a7d03ad5faca@45.86.74.193:443/?sni=media.embrofree.org#%F0%9F%94%B971@oneclickvpnkeys
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.194.242.173:443/?insecure=1&sni=127.0.0.1#%F0%9F%94%B969@oneclickvpnkeys
+hysteria2://HATATEAYA@77.90.15.183:8964/?insecure=1&obfs=salamander&obfs-password=HATATEAYA&sni=ganlanc.at#%F0%9F%94%B966@oneclickvpnkeys
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.254.191.251:4444/?sni=bl1.nexfile.net#%F0%9F%94%B944@oneclickvpnkeys
+hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:10444/?sni=cloudehouse24.ru#%F0%9F%94%B913@oneclickvpnkeys

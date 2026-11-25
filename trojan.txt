@@ -1,6 +1,0 @@
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.215:443?allowInsecure=0&security=tls&headerType=none&sni=courses.indyourperfectremotetechjobfromthecomfortofhome.com&insecure=0&type=tcp#%40nofiltering2
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.44:443?security=tls&headerType=none&type=tcp&sni=learn.indyourperfectremotetechjobfromthecomfortofhome.com#%40V2RAYROZ%20%F0%9F%8D%81
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a…
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@bgsg1.hikigo.com:443?allowInsecure=1&fp=chrome#%F0%9F%94%B099@oneclickvpnkeys
-trojan://gHQP0D7D15@104.25.239.113:2053?insecure=0&allowInsecure=0&security=tls&sni=marvdasht.phonecomparisonblog.org&path=%2F&type=ws#%40nofiltering2
-trojan://jyneij42qcfg3x9f@179.254.191.2:39105?security=none#%F0%9F%94%B069@oneclickvpnkeys

@@ -1,0 +1,5 @@
+hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@128.254.186.190:13337/?sni=mother-earth.fyi#%F0%9F%94%B77@oneclickvpnkeys
+hysteria2://Cqx5aT9Zux@185.200.199.179:54706/?sni=185.200.199.179#%F0%9F%94%B714@oneclickvpnkeys
+hysteria2://dongtaiwang.com@[2001:bc8:32d7:17b::10]:22000/?insecure=1&sni=www.microsoft.com#%F0%9F%94%B715@oneclickvpnkeys
+hysteria2://dongtaiwang.com@[2001:bc8:32d7:17b::12]:22000/?insecure=1&sni=www.microsoft.com#%F0%9F%94%B711@oneclickvpnkeys
+hysteria2://dongtaiwang.com@[2001:bc8:32d7:17b::14]:22000/?insecure=1&sni=www.microsoft.com#%F0%9F%94%B712@oneclickvpnkeys

@@ -1,1 +1,1 @@
-hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?security=tls&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&insecure=0&sni=nas.aizhzo.com#%40ConfigV2RayNG%20%F0%9F%87%AD%F0%9F%87%B0
+hysteria2://5s7qa8f78hznlw8g@3.120.145.15:41018?security=tls&obfs=salamander&obfs-password=v0qq015d7c8zgzu7&insecure=0&sni=quotes.ali-khamenei.world#%40flyv2ray
